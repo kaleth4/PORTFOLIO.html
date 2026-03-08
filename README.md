@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ KALETH CORCHO
-### 💻 Tecnico Senior | Apasionado por el código
+### 💻 Tecnico Senior | Ingenieria de sistemas
 
 
 
@@ -9,11 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 
 <br />
-
----
-
-### 🚀 Sobre mí
-Soy un profesional enfocado en la eficiencia y la seguridad. Mi objetivo es optimizar procesos mediante el código y garantizar la integridad de la infraestructura tecnológica.
 
 ---
 
@@ -32,25 +27,21 @@ Soy un profesional enfocado en la eficiencia y la seguridad. Mi objetivo es opti
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mi Actividad en 3D
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaleth4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF" alt="Kaleth Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleth4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF" alt="Top Languages" height="170px" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Calendario 3D Kaleth" width="100%" />
 </div>
 
 <br />
 
 ---
 
-### 📬 Conectemos
+### 📬 Contacto
 ¿Tienes un proyecto interesante o una consulta técnica?
 <br />
 <a href="mailto:k4ledcb@gmail.com">
   <img src="https://img.shields.io/badge/Enviar_Mensaje-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikaleth4=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 
 </div>
