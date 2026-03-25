@@ -4,7 +4,7 @@
 ### 💻 Tecnico Senior | Ingenieria de sistemas
 
 
-🔗 [Ver sitio en vivo](https://kaleth4.github.io/PORTFOLIO.html)
+
 [![Correo](https://img.shields.io/badge/Email-k4ledcb%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:k4ledcb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 
@@ -39,6 +39,7 @@
 ### 📬 Contacto
 ¿Tienes un proyecto interesante o una consulta técnica?
 <br />
+🔗 [sitio web]([https://kaleth4.github.io/](https://github.com/kaleth4/KALETH-CORCHO/edit/main/README.md)
 <a href="mailto:k4ledcb@gmail.com">
   <img src="https://img.shields.io/badge/Enviar_Mensaje-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
